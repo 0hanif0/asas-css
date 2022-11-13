@@ -1,4 +1,4 @@
-# ASAS CSS
+# ASAS CSS (Cascading Style Sheet)
 
 ## cara guna css
 ### `<link rel="stylesheet" href="style.css">` untuk dalam fail berasingan
